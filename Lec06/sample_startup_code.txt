@@ -1,0 +1,22 @@
+###### Sample script for bash_profile  ######
+# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ];then
+	. ~/.bashrc
+fi
+
+#User specific enviroment and startup programs
+PATH=$PATH:$HOME/bin
+export PATH
+
+
+###### Sample script for bashrc file  ######
+#.bashrc
+# Source global definitions
+if [ -f /etc/bashrc ];then
+	. /etc/bashrc
+fi
+
+# User specific aliases and functions
+

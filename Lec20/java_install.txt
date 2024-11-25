@@ -1,0 +1,20 @@
+1. Download java for macOS at http://www.java.com. This will download version 1.8.0_431
+2. Install SDKMAN to install java version 11.0.20 as nextFlow works with java version 11 to 23
+  a. curl -s "https://get.sdkman.io" | bash
+  b. source "$HOME/.sdkman/bin/sdkman-init.sh"
+3. Install tested version of Java 11
+   sdk install java 11.0.20-tem 
+4. Verify  installed version
+   java -version
+5. To configure JAVA_HOME
+   a. Find the java installation directory.  which java
+   b. export JAVA_HOME=/Users/jessicawestfall/.sdkman/candidates/java/current/bin/java
+   c. export PATH=$JAVA_HOME/bin:$PATH
+
+
+Nextflow
+1. To install Nextflow
+   curl -s https://get.nextflow.io | bash
+2. Run nextflow
+   ./nextflow
+

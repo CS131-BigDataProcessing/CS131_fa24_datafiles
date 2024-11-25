@@ -1,0 +1,40 @@
+2024-11-24 18:15:02	-	fervent_kimura	-	74dea5ba65793df7968472351cb1edc1	6a94f52b-2243-40db-831f-89dbab31af91	nextflow run main.nf
+2024-11-24 18:27:15	-	jovial_galileo	-	8ac7a42bcef7503a8e3fc5ce501bafe5	2d7f84f7-4566-4a81-898b-eb7a32d868ca	nextflow run main.nf
+2024-11-24 18:32:23	-	peaceful_ritchie	-	4077d3d424156e94ea2f02b916cab26a	f06f1122-cd57-4eaa-a37a-f859fcace9ea	nextflow run main.nf
+2024-11-24 18:36:48	-	furious_hugle	-	4077d3d424156e94ea2f02b916cab26a	5ba52441-63bb-4f62-9eaa-184a6d37612a	nextflow run main.nf
+2024-11-24 18:39:30	-	zen_khorana	-	c5963fe4c0b4130d725a3e011d53294e	1d23298f-35a5-4da6-a132-664a325fa88d	nextflow run main.nf
+2024-11-24 18:42:42	-	exotic_mayer	-	c5963fe4c0b4130d725a3e011d53294e	27f0bdda-aa43-4077-9105-16124155cfc0	nextflow run main.nf
+2024-11-24 18:45:46	-	clever_noyce	-	51440b669fcae3728c54d8bcda9f72ef	73137d81-7c2e-40db-85a0-c761fa465da5	nextflow run main.nf --inputFiles './data/*.txt'
+2024-11-24 18:52:31	-	nasty_borg	-	6c5cc6229bc0f45a68bc1059256822a0	fcea30e4-6c2a-42bb-80b0-6e6d8a77e12d	nextflow run main.nf --inputFiles './data/*.txt'
+2024-11-24 18:54:22	2.7s	spontaneous_bohr	ERR	6f7f1017c8a4f234cbbff95337a9ba0f	ed14a211-7262-4936-97ec-cd85b3a9d82e	nextflow run main.nf --inputFiles './data/*.txt'
+2024-11-24 18:55:44	-	condescending_mandelbrot	-	d288b0281eac5194052bded3f5002dfa	a69e91b2-6bb6-4986-a12e-a65ed9193d43	nextflow run main.nf --inputFiles './data/*.txt'
+2024-11-24 19:01:37	-	dreamy_leibniz	-	d288b0281eac5194052bded3f5002dfa	10fa1961-b306-45a0-a624-96483edfec17	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:03:31	-	pensive_leavitt	-	d288b0281eac5194052bded3f5002dfa	d58b710a-0aef-4c92-8d9a-c806a2fe0c44	nextflow run main.nf --inputDir ./data --outputDir ./results -with-trace -with-report -with-timeline -with-dag flowchart.png
+2024-11-24 19:07:13	-	big_pike	-	8a103b86a49921af6f2adec485bcd242	6a630208-057e-48c6-99a3-21bdba5456dc	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:07:51	-	confident_lamport	-	8a103b86a49921af6f2adec485bcd242	e7ce145f-f66d-4293-b4db-06585a053d05	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:10:48	-	curious_mandelbrot	-	8a103b86a49921af6f2adec485bcd242	c54686bd-b9a1-491d-9038-8572bf63c583	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:16:05	2s	serene_hopper	ERR	0235f598c193c8e03ec848e9e70b1320	72c34b1d-53a0-429e-8c24-166cfa64aee6	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:17:41	2.9s	nice_lagrange	OK	3b85f2fddc3fc837410faa036d1af0a6	e09ac7f3-e949-4669-8063-4ac4650d7d53	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:18:30	2.5s	scruffy_stallman	ERR	3b85f2fddc3fc837410faa036d1af0a6	318f804e-bedf-4a06-9dd4-c56f42570f7f	nextflow run main.nf --inputDir ./data/ --outputDir ./results/
+2024-11-24 19:18:52	2.5s	sharp_lalande	OK	3b85f2fddc3fc837410faa036d1af0a6	e1125f4f-b329-4b09-8d8d-e2d3f86036d7	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:20:04	2s	mighty_lumiere	ERR	ab9fd2dc7a41f6e6e6619bf978733a63	1a834106-e8bd-45b2-852b-dc692b44bc40	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:21:44	3.1s	furious_waddington	OK	649c8bddd3b71226e82444093967f764	0c531446-00b9-44b9-9b48-a15c64641139	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:23:22	2.2s	prickly_feynman	OK	46bebe7088ea33126245760ed1818d88	879d244e-49d9-4119-a376-599670bad056	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:29:54	2.6s	wise_legentil	OK	46bebe7088ea33126245760ed1818d88	e04ff0e5-b151-4553-8748-6a7207c25437	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:32:08	3s	stoic_joliot	OK	46bebe7088ea33126245760ed1818d88	c276c62c-3752-4487-9b27-827c642b2823	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:33:44	2.2s	chaotic_williams	OK	46bebe7088ea33126245760ed1818d88	6c1fca6f-4706-4090-abaa-a23df9b2f38d	nextflow run main.nf
+2024-11-24 19:35:08	3.3s	astonishing_blackwell	OK	22ba4d773374ba8699082817dc48e913	085ec8dd-cde5-4580-8827-a208f0b07e43	nextflow run main.nf
+2024-11-24 19:35:22	2.1s	astonishing_wescoff	OK	22ba4d773374ba8699082817dc48e913	68bdcd60-0474-473d-bd14-5601ed517ab9	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:40:49	2.8s	ecstatic_gautier	OK	649c8bddd3b71226e82444093967f764	f043eec3-94a2-4877-99f1-ee7e5063cc42	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:47:52	-	boring_thompson	-	2633dfcbfc624cb8349854afb3b2550c	44038fed-993f-4326-ae2e-a57ffa2a3f84	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:49:02	2.4s	hopeful_avogadro	ERR	35d2723c378628b91a94b847fc1743b0	ebaf647b-5c59-48c6-813a-1440f0f94622	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:50:00	2.3s	mad_swirles	OK	bfcf2ef3823e0680606fe08cb63de1b2	cb51772e-39b4-4c65-bc4c-f4a4433b1114	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:56:34	2.4s	spontaneous_turing	OK	14d1e0ae5165508a8e098be8e52fc4cb	63fea730-fe5b-4da7-98e0-b544c6b23150	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:59:20	3.3s	admiring_maxwell	OK	0ffb7ffbe60b150c94a33a331122d193	7cb52045-bdca-4e2d-86e2-80819191bddc	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 19:59:40	2.6s	nostalgic_mahavira	OK	0ffb7ffbe60b150c94a33a331122d193	9a5f242f-15ea-4322-bb0d-83456c2a6eb3	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 20:07:02	2.1s	elated_hoover	OK	0ffb7ffbe60b150c94a33a331122d193	975c0e63-a568-4583-89aa-14444517309e	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 20:08:15	2.2s	tender_pare	OK	1d80d7e21dcb9ddb78b0cbb2a6ee7a11	589075f3-bf1f-4197-9b1d-102d96186f72	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 20:09:34	2.8s	voluminous_lavoisier	OK	fec874a7e5b883a3ead3207d844de362	6b976c1c-d450-4b8f-9f36-ee1b6d428cf2	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 20:10:26	3.1s	loquacious_caravaggio	OK	e71647f7f68f86db1e070075004f3065	a2aa6de8-23bf-49bf-9e1a-f519923bdc14	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 20:14:16	2.6s	irreverent_maxwell	OK	0ffb7ffbe60b150c94a33a331122d193	c20d5ce5-82ec-424c-a383-5a2c35e359fa	nextflow run main.nf --inputDir ./data --outputDir ./results
+2024-11-24 20:22:24	3s	pensive_bassi	OK	0ffb7ffbe60b150c94a33a331122d193	c5d143ca-8a9a-42ba-8477-1ee21a980f20	nextflow run main.nf --inputDir ./data --outputDir ./results

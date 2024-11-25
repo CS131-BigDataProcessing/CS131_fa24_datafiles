@@ -1,0 +1,67 @@
+Nov-24 20:22:23.721 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main.nf --inputDir ./data --outputDir ./results
+Nov-24 20:22:23.856 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 24.10.1
+Nov-24 20:22:23.891 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/Users/jessicawestfall/.nextflow/plugins; core-plugins: nf-amazon@2.9.1,nf-azure@1.10.2,nf-cloudcache@0.4.2,nf-codecommit@0.2.2,nf-console@1.1.4,nf-google@1.15.2,nf-tower@1.9.3,nf-wave@1.7.3
+Nov-24 20:22:23.920 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Nov-24 20:22:23.922 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Nov-24 20:22:23.926 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.12.0 in 'deployment' mode
+Nov-24 20:22:23.942 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+Nov-24 20:22:23.969 [main] DEBUG nextflow.config.ConfigBuilder - Found config local: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/nextflow.config
+Nov-24 20:22:23.972 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/nextflow.config
+Nov-24 20:22:24.006 [main] DEBUG n.secret.LocalSecretsProvider - Secrets store: /Users/jessicawestfall/.nextflow/secrets/store.json
+Nov-24 20:22:24.009 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@6e0f7aad] - activable => nextflow.secret.LocalSecretsProvider@6e0f7aad
+Nov-24 20:22:24.024 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `standard`
+Nov-24 20:22:24.664 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 by global default
+Nov-24 20:22:24.692 [main] DEBUG nextflow.cli.CmdRun - Launching `main.nf` [pensive_bassi] DSL2 - revision: 0ffb7ffbe6
+Nov-24 20:22:24.694 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+Nov-24 20:22:24.694 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[]
+Nov-24 20:22:24.781 [main] DEBUG nextflow.Session - Session UUID: c5d143ca-8a9a-42ba-8477-1ee21a980f20
+Nov-24 20:22:24.781 [main] DEBUG nextflow.Session - Run name: pensive_bassi
+Nov-24 20:22:24.781 [main] DEBUG nextflow.Session - Executor pool size: 8
+Nov-24 20:22:24.800 [main] DEBUG nextflow.file.FilePorter - File porter settings maxRetries=3; maxTransfers=50; pollTimeout=null
+Nov-24 20:22:24.809 [main] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'FileTransfer' minSize=10; maxSize=24; workQueue=LinkedBlockingQueue[10000]; allowCoreThreadTimeout=false
+Nov-24 20:22:24.849 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 24.10.1 build 5930
+  Created: 18-11-2024 12:21 UTC (04:21 PDT)
+  System: Mac OS X 13.7.1
+  Runtime: Groovy 4.0.23 on OpenJDK 64-Bit Server VM 11.0.20+8
+  Encoding: UTF-8 (UTF-8)
+  Process: 7282@Jessicas-MacBook-Pro-2.local [10.0.0.13]
+  CPUs: 8 - Mem: 16 GB (28.8 MB) - Swap: 4 GB (918.8 MB)
+Nov-24 20:22:24.868 [main] DEBUG nextflow.Session - Work-dir: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/work [Mac OS X]
+Nov-24 20:22:24.869 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/bin
+Nov-24 20:22:24.889 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+Nov-24 20:22:24.904 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Nov-24 20:22:24.947 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+Nov-24 20:22:24.966 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 9; maxThreads: 1000
+Nov-24 20:22:25.094 [main] DEBUG nextflow.Session - Session start
+Nov-24 20:22:25.097 [main] DEBUG nextflow.trace.TraceFileObserver - Workflow started -- trace file: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/trace.txt
+Nov-24 20:22:25.322 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Nov-24 20:22:25.517 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: local
+Nov-24 20:22:25.517 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Nov-24 20:22:25.525 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Nov-24 20:22:25.536 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=8; memory=16 GB; capacity=8; pollInterval=100ms; dumpInterval=5m
+Nov-24 20:22:25.540 [main] DEBUG n.processor.TaskPollingMonitor - >>> barrier register (monitor: local)
+Nov-24 20:22:25.615 [main] DEBUG nextflow.Session - Workflow process names [dsl2]: exampleTask
+Nov-24 20:22:25.615 [main] DEBUG nextflow.Session - Igniting dataflow network (2)
+Nov-24 20:22:25.628 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > exampleTask
+Nov-24 20:22:25.630 [main] DEBUG nextflow.script.ScriptRunner - Parsed script files:
+  Script_7a29e064af974ec5: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/main.nf
+Nov-24 20:22:25.631 [main] DEBUG nextflow.script.ScriptRunner - > Awaiting termination 
+Nov-24 20:22:25.632 [main] DEBUG nextflow.Session - Session await
+Nov-24 20:22:25.635 [PathVisitor-1] DEBUG nextflow.file.PathVisitor - files for syntax: glob; folder: ./data/; pattern: *.txt; options: [:]
+Nov-24 20:22:25.888 [Task submitter] WARN  n.executor.BashWrapperBuilder - Task runtime metrics are not reported when using macOS without a container engine
+Nov-24 20:22:25.909 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Nov-24 20:22:25.912 [Task submitter] INFO  nextflow.Session - [4a/db7e56] Submitted process > exampleTask (1)
+Nov-24 20:22:25.970 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: exampleTask (1); status: COMPLETED; exit: 0; error: -; workDir: /Users/jessicawestfall/Library/Mobile Documents/com~apple~CloudDocs/Documents/SJSU/CS 131 - Data Processing/github_repo/CS131_fa24_datafiles/Lec20/nf_demo/work/4a/db7e5675683e376d0c657c5c821530]
+Nov-24 20:22:25.970 [Task monitor] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'TaskFinalizer' minSize=10; maxSize=24; workQueue=LinkedBlockingQueue[10000]; allowCoreThreadTimeout=false
+Nov-24 20:22:25.986 [main] DEBUG nextflow.Session - Session await > all processes finished
+Nov-24 20:22:26.070 [Task monitor] DEBUG n.processor.TaskPollingMonitor - <<< barrier arrives (monitor: local) - terminating tasks monitor poll loop
+Nov-24 20:22:26.071 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Nov-24 20:22:26.074 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'TaskFinalizer' shutdown completed (hard=false)
+Nov-24 20:22:26.080 [main] DEBUG n.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=1; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=2; peakMemory=4 GB; ]
+Nov-24 20:22:26.080 [main] DEBUG nextflow.trace.TraceFileObserver - Workflow completed -- saving trace file
+Nov-24 20:22:26.081 [main] DEBUG nextflow.trace.ReportObserver - Workflow completed -- rendering execution report
+Nov-24 20:22:26.931 [main] DEBUG nextflow.trace.TimelineObserver - Workflow completed -- rendering execution timeline
+Nov-24 20:22:27.022 [main] DEBUG nextflow.cache.CacheDB - Closing CacheDB done
+Nov-24 20:22:27.038 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'FileTransfer' shutdown completed (hard=false)
+Nov-24 20:22:27.039 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

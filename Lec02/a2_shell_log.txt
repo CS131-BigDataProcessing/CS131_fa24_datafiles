@@ -1,0 +1,501 @@
+   39  ./scan cs152project
+   40  ls -alR cs152project
+   41  ./scan cs152project
+   42  ls -alR cs152project
+   43  ./scan cs152project
+   44  /usr/local/bin/python3 /Users/dychang124/Desktop/cs171project/SeaAnimals.py
+   45  cd cs171project
+   46  /usr/local/bin/python3 /Users/dychang124/Desktop/cs171project/SeaAnimals.py
+   47  python3 -m venv myenv
+   48  source myenv/bin/activate
+   49  pip install tensorflow numpy matplotlib
+   50  python SeaAnimals.py
+   51  python --version
+   52  /Applications/Python\ {your_python_version}/Install\ Certificates.command
+   53  /Applications/Python\ {3.12}/Install\ Certificates.command
+   54  python3.12 -m pip install --upgrade certifi
+   55  python SeaAnimals.py
+   56  pyenv global 3.12
+   57  myenv global 3.12
+   58  python -m pip install --upgrade certifi
+   59  python3.12 -m pip install --upgrade certifi
+   60  python SeaAnimals.py
+   61  python SeaAnimals.py
+   62  pip install scipy
+   63  python SeaAnimals.py
+   64  python SeaAnimals.py
+   65  python SeaAnimals.py
+   66  python SeaAnimals.py
+   67  python SeaAnimals.py
+   68  python SeaAnimals.py
+   69  python SeaAnimals.py
+   70  python SeaAnimals.py
+   71  python SeaAnimals.py
+   72  python SeaAnimals.py
+   73  python SeaAnimals.py
+   74  python SeaAnimals.py
+   75  python SeaAnimals.py
+   76  python SeaAnimals.py
+   77  python SeaAnimals.py
+   78  python SeaAnimals.py
+   79  python SeaAnimals.py
+   80  /usr/bin/python3 /Users/dychang124/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/dychang124/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/envVars.txt
+   81  cd desktop
+   82  nano input.txt
+   83  mv Decode.java Desktop
+   84   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   85   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   86   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   87   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   88   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   89   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   90   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   91   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_c6ab1/jdt_ws/jdt.ls-java-project/bin Decode 
+   92  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   93  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   94  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   95  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   96  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   97  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   98  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+   99  cd desktop
+  100  curl -o cute_cat.jpg https://www.example.com/images/cute_cat.jpg
+  101  ls
+  102  curl -u username:password -O ftp://ftp.example.com/myfile.txt
+  103  curl -O https://www.example.com/sample.txt
+  104  curl -o myfile.txt https://www.example.com/sample.txt
+  105  curl -O -# https://www.example.com/large_file.zip 
+  106  curl -C - -O https://www.example.com/large_file.zip
+  107  curl -O http://example.com/file.zip
+  108  curl -o myfile.zip http://example.com/file.zip
+  109  /usr/local/bin/python3 /Users/dychang124/Desktop/SplitData.py
+  110  /usr/local/bin/python3 /Users/dychang124/Desktop/SplitData.py
+  111  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  112  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  113  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  114  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  115  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  116  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  117  /usr/local/bin/python3 /Users/dychang124/Desktop/test/SplitData.py
+  118  cd desktop
+  119  curl --request GET   --url https://api.spotify.com/v1/playlists/2I1qxSXvi0ZHGV2LyQ5Stz%3Fsi%3D2478eea264114343%26nd%3D1%26dlsi%3D012e118707164729/images   --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
+  120  curl --request GET   --url https://api.spotify.com/v1/playlists/2I1qxSXvi0ZHGV2LyQ5Stz/images   --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
+  121  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  122  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  123  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  124  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  125  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  126  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  127  cd desktop
+  128  gcc Test.cpp -o Test
+  129  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  130  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  131  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  132  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  133  cd desktop
+  134  ls
+  135  g++ test.cpp -o test
+  136  cd cs149*
+  137  ls
+  138  g++ mms.cpp -o test
+  139  clang test.cpp -o test
+  140  clang mms.cpp -o test
+  141  clang mmc.cpp -o test
+  142  clang -Wall -Wextra -O2 mmc.cpp -o myprogram
+  143  g++ -g mmc.cpp -o myprogram
+  144  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  145  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  146  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  147  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  148  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  149  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  150  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  151  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  152  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  153  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  154  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  155  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  156  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  157  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  158  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  159  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  160  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  161  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  162  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  163  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  164  pip install pandas
+  165  pip install matplotlib
+  166  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  167  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  168  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  169  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  170  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  171  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  172  pip install pygame
+  173  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  174  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  175  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  176  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  177  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  178  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  179  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  180  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  181  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  182  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  183  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  184  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  185  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  186  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  187  cd desktop
+  188  g++ main.cpp -o binary_tree
+  189  g++ Test.cpp -o binary_tree
+  190  ./binary_tree
+  191  ./binary_tree
+  192  ./binary_tree
+  193  g++ Test.cpp -o binary_tree
+  194  ./binary_tree
+  195  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  196  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  197  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  198  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  199  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  200  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  201  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  202  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  203  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  204  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  205  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  206  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  207  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  208  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  209  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  210  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  211  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  212  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  213  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  214  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  215  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  216  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  217  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  218  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  219  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  220  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  221  cd desktop
+  222  g++ -o Test.cpp Test
+  223  g++ -o Test Test.cpp
+  224  ./Test
+  225  g++ -o Test Test.cpp
+  226  cd Desktop
+  227  g++ -o Test Test.cpp
+  228  ./Test
+  229  g++ -o Test Test.cpp
+  230  ./Test
+  231  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  232  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  233  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  234  pip install pyautogui
+  235  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  236  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  237  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  238  pip install pynput
+  239  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  240  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  241  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  242  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  243  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  244  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  245  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  246  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  247  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  248  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  249  pip install peft
+  250  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  251  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  252  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  253  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  254  cd Desktop
+  255  pip install mpi
+  256  brew install mpich
+  257  g++ -o Test Test.cpp
+  258  cd Desktop
+  259  g++ -o Test Test.cpp
+  260  g++ -o Test Test.cpp
+  261  g++ -o Test Test.cpp
+  262  mpic++ -o test Test.cpp
+  263  brew uninstall mpich
+  264  brew install mpich
+  265  mpic++ -o test Test.cpp
+  266  arch -arm64 brew install mpich
+  267  file /usr/local/opt/mpich/lib/libmpi.dylib
+  268  file /usr/local/opt/open-mpi/lib/libmpi.dylib
+  269  mpic++ -o test Test.cpp
+  270  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  271  /usr/local/bin/python3 /Users/dychang124/Desktop/this.py
+  272  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  273  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  274  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  275  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  276  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  277  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  278  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  279  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  280  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  281  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  282  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  283  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  284  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  285  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  286  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  287  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  288  4/usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  289  2
+  290  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  291  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  292  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  293  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  294  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  295  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  296  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  297  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  298   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_16aa5/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  299   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_16aa5/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  300   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_16aa5/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  301   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_16aa5/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  302   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_62d1b/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  303   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_62d1b/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  304   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_62d1b/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  305   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_62d1b/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  306  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  307  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  308  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  309  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  310   /usr/bin/env /Users/dychang124/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /private/var/folders/xy/02rq4x953w7fl09w4jnqd9z40000gn/T/vscodesws_09534/jdt_ws/jdt.ls-java-project/bin StringFormattingExample 
+  311  rustup toolchain install nightly
+  312  rustup default nightly
+  313  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  314  rustup toolchain install nightly
+  315  rustup default nightly
+  316  export PATH="$HOME/.cargo/bin:$PATH"
+  317  source ~/.bashrc  # or source ~/.zshrc if you use Zsh
+  318  rustup toolchain install nightly
+  319  rustup default nightly
+  320  cd Desktop
+  321  cargo new my_project
+  322  cd my_project
+  323  nano src/New.rs
+  324  cargo run
+  325  cp src/New.rs
+  326  cargo run
+  327  cp New.rs
+  328  cargo run
+  329  cp src/New.rs
+  330  cargo run
+  331  cp src/main.rs
+  332  cargo run
+  333  cp src/main.rs
+  334  cargo run
+  335  cp src/main.rs
+  336  cargo run
+  337  cp src/main.rs
+  338  cargo run
+  339  cp src/main.rs
+  340  cargo run
+  341  pip install nltk
+  342  pip install seaborn
+  343  /usr/local/bin/python3 /Users/dychang124/Desktop/new.py
+  344  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  345  /usr/local/bin/python3 /Users/dychang124/Desktop/User.py
+  346  pip install django
+  347  cd desktop
+  348  g++ Test Test.cpp
+  349  g++ Test.cpp -o Test
+  350  ./Test
+  351  g++ Test.cpp -o Test
+  352  clang Test.cpp -o Test
+  353  g++ -std=c++11 /Users/dychang124/Desktop/Test.cpp -o Test
+  354  ./Test
+  355  g++ Test.cpp -o Test
+  356  ./Test
+  357  g++ Test.cpp -o Test
+  358  ./Test
+  359  g++ Test.cpp -o Test
+  360  ./Test
+  361  g++ -std=c++11 /Users/dychang124/Desktop/Test.cpp -o Test
+  362  g++ --version
+  363  brew install googletest
+  364  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  365  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  366  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  367  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  368  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  369  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  370  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  371  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  372  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  373  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  374  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  375  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  376  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  377  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  378  pip install pytesseract
+  379  pip install pillow
+  380  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  381  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  382  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  383  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  384  clear
+  385  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  386  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  387  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  388  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  389  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  390  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  391  pip install dotenv
+  392  pip install langchain
+  393  pip install langchain_google_genai
+  394  pip install dotenv
+  395  pip install --use-pep517 dotenv
+  396  pip install --upgrade pip setuptools wheel
+  397  pip install dotenv
+  398  pip install git+https://github.com/theskumar/python-dotenv
+  399  pip install -U langchain-community
+  400  export GOOGLE_API_KEY="your-google-api-key"
+  401  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  402  pip install anytree
+  403  pip install google-cloud-aiplatform
+  404  cd Desktop
+  405  g++ new.cpp -o new
+  406  g++ -std=c++11 new.cpp -o new
+  407  ./new
+  408  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  409  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  410  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  411  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  412  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  413  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  414  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  415  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  416  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  417  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  418  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  419  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  420  /usr/local/bin/python3 /Users/dychang124/Desktop/test.py
+  421  ssh
+  422  ssh dchangfa24
+  423  studentfa24
+  424  passwd
+  425  ssh username@172.20.25.9
+  426  ssh dchangfa24@172.20.25.9
+  427  ssh dchangfa24@172.20.25.9
+  428  ssh dchangfa24@172.20.25.9
+  429  ssh dchangfa24@172.20.25.9
+  430  cd Desktop
+  431  git clone git@github.com:your/github/repository
+  432  git clone git@github.com:dychang124/a1-collab-dychang124.git
+  433  ssh-keygen -t ed25519 -C "your_email@example.com"
+  434  ssh-keygen -t ed25519 -C "dychang124@gmail.com"
+  435  eval "$(ssh-agent -s)"
+  436  open ~/.ssh/config
+  437  touch ~/.ssh/config
+  438  nano ~/.ssh/config
+  439  open ~/.ssh/config
+  440  nano ~/.ssh/config
+  441  open ~/.ssh/config
+  442  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  443  ssh-add --apple-use-keychain ~/Desktop/.ssh/id_ed25519
+  444  nano ~/.ssh/config
+  445  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  446  open ~/.ssh/config
+  447  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  448  ssh-keygen -t rsa -b 4096 -C "dychang124@gmail.com"
+  449  ssh-keygen -t ed25519 -C "your_email@example.com"
+  450  eval "$(ssh-agent -s)"
+  451  open ~/.ssh/config
+  452  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  453  open ~/.ssh
+  454  git clone git@github.com:dychang124/a1-collab-dychang124.git
+  455  git branch dychang124-colab
+  456  git branch dychang124-collab
+  457  ls
+  458  ls -lt
+  459  cd a1-collab-dychang124
+  460  git branch dychang124-collab
+  461  git branch
+  462  git checkout dychang124-collab
+  463  git branch
+  464  ls
+  465  nano Collaborators.md
+  466  open Collaborators.md
+  467  git status
+  468  git push --set-upstream origin dychang124-collab
+  469  ls
+  470  git status
+  471  git pull origin main
+  472  git checkout main
+  473  open Coll*
+  474  git status
+  475  git merge username-collab
+  476  git merge dychang124-collab
+  477  cd ..
+  478  ls
+  479  git branch
+  480  cd a1
+  481  cd a1*
+  482  ls
+  483  git branch
+  484  ls
+  485  open Collaborators.md
+  486  git checkout dychang124-collab
+  487  git branch
+  488  ls
+  489  open Collaborators.md
+  490  git push --set-upstream origin dychang124-collab
+  491  git pull origin main
+  492  git checkout main
+  493  git merge username-collab
+  494  git merge dychang124-collab
+  495  open Col*
+  496  git add Collaborators.md
+  497  git commit -m "Daniel Chang added to collaborators"
+  498  git push
+  499  git pull
+  500  git compare
+  501  ssh dychang124@172.20.25.9
+  502  ssh dchangfa24@172.20.25.9
+  503  cd Desktop
+  504  git branch
+  505  ls
+  506  git clone git@github.com:dychang124/CS131_fa24_datafiles.git
+  507  cd CS131_*
+  508  ls
+  509  cd Lec02
+  510  ls
+  511  grep wor goodluck.txt
+  512  grep -i wor goodluck.txt
+  513  grep "wor" goodluck.txt
+  514  grep -v wor goodluck.txt
+  515  grep -o "wor" goodluck.txt
+  516  grep --include "wor" goodluck.txt
+  517  grep -i "wor goodluck.txt
+sdf
+  518  grep -i "wor" goodluck.txt
+  519  grep -i 'wor' goodluck.txt
+  520  grep -o '\bwor\w*' goodluck.txt
+  521  grep -o 'dred\w*' goodluck.txt
+  522  history > a2_shell_log.txt
+  523  ls
+  524  cd ..
+  525  ls
+  526  cd  Lec02
+  527  ls
+  528  mv a2* /..
+  529  mv a2* ..
+  530  ls
+  531  cd ..
+  532  ls
+  533  rm a2*
+  534  ls
+  535  cd Lec*
+  536  grep -o '\bwor\w*' goodluck.txt
+  537  grep -o '\w*dred\w*' goodluck.txt
+  538  history > a2_shell_log.txt
